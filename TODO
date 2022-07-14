@@ -3,3 +3,5 @@
 3: add DNS filtering to Iptables as service.
 4: add Botnet c&c to Iptables as service.
 5: add IPS to Iptables as service.
+6: Dockerize Iptables as service.
+7: Clustring Iptables as service.
